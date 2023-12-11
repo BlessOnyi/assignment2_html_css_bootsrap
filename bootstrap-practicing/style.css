@@ -1,0 +1,88 @@
+.container-about{
+    background-image: url('./images/Image\ 2.jpeg');
+    height: 516px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.lorem{
+    font-weight: bold;
+    font-size: 40px;
+}
+.lorem-2{
+    font-weight: bolder;
+    
+}
+.icons{
+    background-color: rgb(172, 121, 50);
+    width: 40px;
+    height: 40px;
+    padding: 5%;
+    margin-top: 37px;
+    border-radius: 40px;
+}
+.about-us{
+    padding: 50px;
+    margin-top: 3%;
+}
+
+.about-pix{
+    padding: 50px;
+    margin-top: 3%;
+    border: none;
+    border-radius: 30px;
+ 
+   
+}
+.card-section{
+   text-align: center;
+     margin-top: -160px;
+    width:90%;
+    height:120px;
+    margin-left: 31px;
+    background-color: rgba(255, 246, 246, 0.8);
+ 
+}
+
+
+.card-img1{
+    height: 90%;
+}
+.artist2{
+    background-color: white;
+    box-shadow: 10px 3px 25px black;
+    /* width: 55%;
+    height: 450px; */
+    border-radius: 5px;
+   margin-left: 27%;
+    /* margin-top: 6px;  */
+}
+
+
+.artist1 {
+     background-color: white;
+    box-shadow: 10px 3px 25px black;
+    /* width: 55%; */
+    border-radius: 5px;
+   /* height: 200px;*/
+ margin: 1%;
+}
+
+.container-artist  h3{
+text-align: center;
+margin-top: 45px;
+}
+
+.class-table{
+    background-image: url('./images/Image1.jpeg');
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-top: 30px;
+}
+
+.my-class-table{
+    margin-top: 5%;
+}
+
+
